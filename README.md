@@ -15,14 +15,15 @@ Enthusiastic computer engineering student with a strong passion for technology a
 ### Experience
 
 #### P&OES
-<img src="assets/poes.jpg" alt="P&OES" style="width: 50px; height: 50px; border-radius: 50%;"/> 
 *2023 - Present*  
+<img src="assets/poes.jpg" alt="P&OES" style="width: 50px; height: 50px; border-radius: 50%;"/> 
 Co-founder responsible for designing sites that run doc files and tutorials.  
 
 
 #### IOXL
-<img src="assets/ioxl.png" alt="IOXL Logo" style="width: 50px; height: 50px; border-radius: 50%;"/> 
+
 *2024 - Present*  
+<img src="assets/ioxl.png" alt="IOXL Logo" style="width: 50px; height: 50px; border-radius: 50%;"/> 
 Part of a startup that provides tutorials for repairing most tech products, ranging from cars to handheld devices. Actively involved in development.  
 
 ---
@@ -38,14 +39,16 @@ Part of a startup that provides tutorials for repairing most tech products, rang
 ---
 
 ### Education
-<img src="assets/smu.png" alt="SMU Logo" style="width: 50px; height: 50px; border-radius: 50%;"/>
+
 #### Southern Methodist University
 *2024 - 2027*  
+<img src="assets/smu.png" alt="SMU Logo" style="width: 50px; height: 50px; border-radius: 50%;"/>
 Bachelor of Science in Computer Engineering  
 
 
 #### University of Texas Arlington
-<img src="assets/uta.png" alt="University of Texas Arlington Logo" style="width: 50px; height: 50px; border-radius: 50%;"/> 
+
 *2023 - 2024*  
-Bachelor of Computer Science (First Year)  
+<img src="assets/uta.png" alt="University of Texas Arlington Logo" style="width: 50px; height: 50px; border-radius: 50%;"/> 
+Bachelor of Computer Science 
 
