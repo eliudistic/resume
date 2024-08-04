@@ -17,12 +17,12 @@ Enthusiastic computer engineering student with a strong passion for technology a
 #### P&OES
 *2023 - Present*  
 Co-founder responsible for designing sites that run doc files and tutorials.  
-![P&OES Logo](assets/poes.jpg)
+<img src="assets/poes.jpg" alt="P&OES" style="width: 50px; height: 50px; border-radius: 50%;"/> P&OES
 
 #### IOXL
 *2024 - Present*  
 Part of a startup that provides tutorials for repairing most tech products, ranging from cars to handheld devices. Actively involved in development.  
-![IOXL Logo](assets/ioxl.png)
+<img src="assets/ioxl.png" alt="IOXL Logo" style="width: 50px; height: 50px; border-radius: 50%;"/> IOXL
 
 ---
 
@@ -41,9 +41,9 @@ Part of a startup that provides tutorials for repairing most tech products, rang
 #### Southern Methodist University
 *2024 - 2027*  
 Bachelor of Science in Computer Engineering  
-![SMU Logo](assets/smu.png)
+<img src="assets/smu.png" alt="SMU Logo" style="width: 50px; height: 50px; border-radius: 50%;"/> SMU
 
 #### University of Texas Arlington
 *2023 - 2024*  
 Bachelor of Computer Science (First Year)  
-![University of Texas Arlington Logo](assets/uta.png)
+<img src="assets/uta.png" alt="University of Texas Arlington Logo" style="width: 50px; height: 50px; border-radius: 50%;"/> University of Texas Arlington
