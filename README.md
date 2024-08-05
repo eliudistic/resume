@@ -8,7 +8,7 @@ Enthusiastic computer engineering student with a strong passion for technology a
 
 ### Contact
 - Email: [eliudium@gmail.com](mailto:eliudium@gmail.com)
-- Website: [www.3liud.com](http://www.3liud.com)
+- Website: [www.3liud.com](https://3liud.com/))
 
 ---
 
